@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Music_Application</string>
+    <string name="song_image">Song Image</string>
+    <string name="artist_name">Artist Name</string>
+    <string name="duration">Song Duration</string>
+    <string name="song_name">Song Name</string>
 </resources>

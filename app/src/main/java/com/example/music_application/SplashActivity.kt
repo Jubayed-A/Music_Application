@@ -1,9 +1,11 @@
-package com.example.music_application
+package com
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.os.Handler
+import com.example.music_application.MainActivity
+import com.example.music_application.R
 
 class SplashActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
